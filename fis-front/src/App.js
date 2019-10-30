@@ -3,6 +3,8 @@ import './App.css';
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 import Home from './components/Home'
 import Nav from './components/Nav';
+import About from './components/About';
+import Contact from './components/Contact';
 
 function App() {
   return (
